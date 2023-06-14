@@ -39,8 +39,8 @@ Collection name: home
 
 npm run dev 
 or
-npm run dev -- -p 8082
+npm run dev -- -p 8081
 
 6.To visualize Swagger paste the URL in the internet web browser:
-http://localhost:8082/api-docs
+http://localhost:8081/api-docs
 
